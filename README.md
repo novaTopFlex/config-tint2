@@ -5,4 +5,4 @@ This Tint2 setup is based on the opaque version of the dark vertical taskbar fro
 ## Width and Height
 The width of this taskbar should appear dynamically set to 7% of the device resolution width. The height of this taskber should appear dynamically set to the full device resolution height, thus the right-side appearance.
 ## Screenshot
-![tint2conf]{tint2conf.png}
+![tint2conf](tint2conf.png)
